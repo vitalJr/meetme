@@ -21,7 +21,7 @@ React-Native + Redux + Firebase
   <li>React-Redux: npm install --save react-redux</li>
 </ul>  
 
-<b>OBSERVAÇÃO:</b> Para utilizar as ferramentas do google é necessário ativar as apis utilizadas (API DO MAPS: <a href="https://console.developers.google.com/apis">APIS google</a>).
+<b>OBSERVAÇÃO:</b> Para utilizar as ferramentas do google é necessário ativar as apis utilizadas, selecionando o projeto em que deseja trabalhar (API DO MAPS: <a href="https://console.developers.google.com/apis">APIS google</a>).
 
 <h4>Links utilizados para realizar a configuração do MAPS e GOOGLE SIGNIN</h4>
 <ul>
