@@ -25,8 +25,8 @@ React-Native + Redux + Firebase
 
 <h4>Links utilizados para realizar a configuração do MAPS e GOOGLE SIGNIN</h4>
 <ul>
-  <li>GOOGLE MAPS: <a href="https://codeburst.io/react-native-google-map-with-react-native-maps-572e3d3eee14"> CODEBURST </a></li>
-  <li>GOOGLE SIGNIN: <a href="https://dev.to/anwargul0x/get-started-with-react-native-google-sign-in-18i5"> ANWARGU10X </a> </li>
+  <li>GOOGLE MAPS: <a href="https://codeburst.io/react-native-google-map-with-react-native-maps-572e3d3eee14" target="_blank"> CODEBURST </a></li>
+  <li>GOOGLE SIGNIN: <a href="https://dev.to/anwargul0x/get-started-with-react-native-google-sign-in-18i5" target="_blank"> ANWARGU10X </a> </li>
 </ul>
 
 -------------------------------------------------------------------------------------------------------------------------------------
