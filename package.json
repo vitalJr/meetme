@@ -14,7 +14,7 @@
     "@react-native-community/google-signin": "^4.0.3",
     "base-64": "^0.1.0",
     "firebase": "^7.15.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "native-base": "^2.13.12",
     "react": "16.11.0",
     "react-native": "0.62.2",
